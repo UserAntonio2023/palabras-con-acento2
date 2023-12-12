@@ -19,7 +19,7 @@ Ejemplos: cómetelo, dímelo, ámamelos.
 El programa debe tener un input por medio de teclado para poder realizar varios input hasta que se escriba la palabra EXIT en mayúsculas.*/
 
 
-//Instrucciones: Ejectutar mediante consola :> node "c:\Users\feder\Desktop\5to semestre\Automatas\Palabras\palabras.js"
+//Instrucciones: Ejectutar mediante consola :> node "c:\Users\feder\Desktop\5to semestre\Automatas\Palabras\palabras2.js"
 const readline = require('readline');
 
 const rl = readline.createInterface({
